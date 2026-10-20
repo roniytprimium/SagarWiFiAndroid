@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.SagarWiFi" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#1266D6</item>
+        <item name="colorPrimaryVariant">#0A2B57</item>
+        <item name="colorSecondary">#40A9FF</item>
+        <item name="android:statusBarColor">#080C16</item>
+        <item name="android:navigationBarColor">#080C16</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
